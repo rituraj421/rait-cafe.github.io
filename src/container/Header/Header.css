@@ -1,0 +1,27 @@
+.app__header{
+    background-color: rgb(35, 11, 11);
+    /* padding-top: 0px; */
+}
+
+.app__header-h1{
+    font-family: var(--font-base);
+    color: gold;
+    letter-spacing: 0.04em;
+    /* text-transform: uppercase; */
+    line-height: 117px;
+    font-size: 90px;
+}
+
+/* .app__header-img img{
+    width: 80%;
+} */
+.app__wrapper_img{
+    /* border-style: dashed; */
+    border: 0.5rem inset gold;
+    /* z-index: 1; */
+    /* border-left-width: 3px; */
+    border-radius: 50%;
+    border-top: 3px red;
+    border-bottom: 3px red;
+    /* outline: 0.5rem solid khaki; */
+}
