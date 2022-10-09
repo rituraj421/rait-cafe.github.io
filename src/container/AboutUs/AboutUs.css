@@ -26,7 +26,13 @@
     flex-direction: column;
     text-align: right;
 }
-.app__aboutus-content_knife{
+.headtext__cormorant:hover{
+    color: white;
+}
+.p__opensans:hover{
+    color: gold;
+}
+/* .app__aboutus-content_knife{
     margin: 2rem 4rem;
     height: 900px;
-}
+} */

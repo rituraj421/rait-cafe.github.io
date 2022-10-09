@@ -1,58 +1,29 @@
 import images from './images';
-
-const wines = [
+const coffee = [
   {
-    title: 'Chapel Hill Shiraz',
-    price: '$56',
-    tags: 'AU | Bottle',
-  },
-  {
-    title: 'Catena Malbee',
-    price: '$59',
-    tags: 'AU | Bottle',
-  },
-  {
-    title: 'La Vieillw Rose',
-    price: '$44',
-    tags: 'FR | 750 ml',
-  },
-  {
-    title: 'Rhino Pale Ale',
-    price: '$31',
-    tags: 'CA | 750 ml',
-  },
-  {
-    title: 'Irish Guinness',
-    price: '$26',
-    tags: 'IE | 750 ml',
-  },
-];
-
-const cocktails = [
-  {
-    title: 'Aperol Sprtiz',
+    title: 'Espresso',
     price: '$20',
-    tags: 'Aperol | Villa Marchesi prosecco | soda | 30 ml',
+    tags: 'No milk | just pure coffee | 30 ml',
   },
   {
-    title: "Dark 'N' Stormy",
+    title: "Americano (American) ",
     price: '$16',
-    tags: 'Dark rum | Ginger beer | Slice of lime',
+    tags: 'espresso shot | diluted Hot Water ',
   },
   {
-    title: 'Daiquiri',
+    title: 'Cappuccino',
     price: '$10',
-    tags: 'Rum | Citrus juice | Sugar',
+    tags: 'Equal parts espresso, steamed milk, and frothed milk',
   },
   {
-    title: 'Old Fashioned',
+    title: 'Black coffee',
     price: '$31',
-    tags: 'Bourbon | Brown sugar | Angostura Bitters',
+    tags: 'Coffee served with no milk',
   },
   {
-    title: 'Negroni',
+    title: 'NegroniCafe Latte',
     price: '$26',
-    tags: 'Gin | Sweet Vermouth | Campari | Orange garnish',
+    tags: 'Just Coffeeee',
   },
 ];
 
@@ -79,4 +50,4 @@ const awards = [
   },
 ];
 
-export default { wines, cocktails, awards };
+export default {coffee, awards };
