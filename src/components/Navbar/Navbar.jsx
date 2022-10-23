@@ -16,13 +16,13 @@ const Navbar = () => {
           <a href="#home">Home</a>
         </li>
         <li className="p__opensans">
-          <a href="#home">About</a>
+          <a href="#about">About</a>
         </li>
         <li className="p__opensans">
           <a href="#menu">Menu</a>
         </li>
         <li className="p__opensans">
-          <a href="#history">History</a>
+          <a href="#achievements">Achievements</a>
         </li>
         <li className="p__opensans">
           <a href="#contact">Contact</a>
@@ -61,7 +61,7 @@ const Navbar = () => {
                 <a href="#menu">Menu</a>
               </li>
               <li className="p__opensans">
-                <a href="#history">History</a>
+                <a href="#achievements">Achievements</a>
               </li>
               <li className="p__opensans">
                 <a href="#contact">Contact</a>
