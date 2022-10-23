@@ -3,6 +3,7 @@ import React from 'react';
 import { AboutUs, Chef, FindUs, Footer, Gallery, Header, Intro, Laurels, SpecialMenu } from './container';
 import { Navbar } from './components';
 import './App.css';
+import Contact from './container/Contact/Contact';
 
 const App = () => (
   <div>
@@ -10,12 +11,13 @@ const App = () => (
     <Header />
     <AboutUs />
     <SpecialMenu />
-    {/* <Chef />
+    <Chef />
     <Intro />
     <Laurels />
     <Gallery />
+    <Contact />
     <FindUs />
-    <Footer /> */}
+    <Footer />
   </div>
 );
 

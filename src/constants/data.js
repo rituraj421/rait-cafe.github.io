@@ -13,7 +13,7 @@ const coffee = [
   {
     title: 'Cappuccino',
     price: '$10',
-    tags: 'Equal parts espresso, steamed milk, and frothed milk',
+    tags: 'Equal parts espresso, steamed milk, ',
   },
   {
     title: 'Black coffee',
