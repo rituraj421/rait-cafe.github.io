@@ -6,10 +6,16 @@
     /* margin-left: 400px; */
 }
 .ritu{
-    color: aliceblue;
+    color: rgb(242, 247, 250);
+    /* background-color: bisque; */
 }
 .rituu{
     color: aliceblue;
+    /* font-style:oblique; */
+    font-family: var(--font-base);
+}
+.rituuu{
+    color: coral;
 }
 
 @media screen and (min-width: 2000px) {

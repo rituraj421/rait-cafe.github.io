@@ -24,7 +24,7 @@ const FindUs = () => {
     <div className="formm">
     <StyledContactForm className='formmm'>
     {/* <SubHeading title="Feedback" /> */}
-    <h1 className='rituu'>Feedback</h1>
+    <h1 className='rituu'><span className='rituuu'>Feed</span>back</h1>
     <form ref={form} onSubmit={sendEmail}>
       <label className='ritu'>Name</label>
       <input type="text" className='ritu' name="user_name" />
