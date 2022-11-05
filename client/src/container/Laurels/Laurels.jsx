@@ -20,7 +20,7 @@ const Laurels = () => (
       <img src={images.laurels} alt="laurels_img" />
     </div>
     
-    <div className="app__wrapper_info">
+    <div className="app__wrapper_info" id='raju'>
       <SubHeading title="Awards & recognition" />
       <h1 className="headtext__cormorant">Our Laurels</h1>
 

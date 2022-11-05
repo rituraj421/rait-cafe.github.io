@@ -17,6 +17,9 @@
     margin: 1rem;
 }
 
+#raju{
+    margin-left: 100px;
+}
 @media screen and (min-width: 1900px) {
     .app__laurels_awards-card {
         min-width: 390px;

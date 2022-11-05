@@ -10,8 +10,8 @@ import Contact from './container/Contact/Contact';
 
 const App = () => (
   <div>
-    <Navbar />
-    {/* <Login /> */}
+    <Navbar /> 
+
     <Header />
     <AboutUs />
     <SpecialMenu />

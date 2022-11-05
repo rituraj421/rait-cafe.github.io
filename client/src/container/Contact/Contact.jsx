@@ -1,8 +1,8 @@
 import React from 'react';
 
 import { SubHeading } from '../../components';
-import { images } from '../../constants';
 
+import Location from '../Location/Location';
 const Contact = () => (
   <div className="app__bg app__wrapper section__padding" id="contact">
     <div className="app__wrapper_info">
@@ -18,9 +18,12 @@ const Contact = () => (
     </div>
 
     <div className="app__wrapper_img">
-      <img src={images.Contact} alt="finus_img" />
+        <div>
+            {/* <iframe id="iframeId" height="500px" width="100%"></iframe> */}
+            <Location />
+        </div>
+    );
     </div>
-    
   </div>
 );
 

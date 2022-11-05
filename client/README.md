@@ -80,3 +80,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
  ## dependencies
   - npm install react-icons
   - npm install --save google-maps-react(for google map in our projects)
+
+  npm install axios react-alert react-alert-template-basic react-helmet react-redux redux redux-thunk redux-devtools-extension react-router-dom overlay-navbar --force
