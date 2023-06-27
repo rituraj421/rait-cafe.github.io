@@ -5,6 +5,7 @@ import { Navbar } from './components';
 import './App.css';
 import Contact from './container/Contact/Contact';
 
+// import Table from './container/Table/Table';
 // import Register from './Register';
 // import Login from './Login';
 
@@ -22,6 +23,7 @@ const App = () => (
     <Contact />
     <FindUs />
     <Footer />
+    {/* <Table/> */}
   </div>
 );
 export default App;
